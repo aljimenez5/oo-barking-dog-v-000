@@ -9,8 +9,7 @@ def name
 end
 
 def bark
-  self.bark
-  puts "Woof!"
+  puts "woof!"
 end
 
 end
