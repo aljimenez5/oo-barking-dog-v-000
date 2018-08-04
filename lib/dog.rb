@@ -8,7 +8,7 @@ def name
   @name
 end
 
-def bark= (bark)
+def bark
   puts "Woof!"
 end
 
