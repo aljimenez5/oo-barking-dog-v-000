@@ -9,7 +9,7 @@ def name
 end
 
 def bark
-  @bark = .bark
+  @bark = self.bark
   puts "Woof!"
 end
 
